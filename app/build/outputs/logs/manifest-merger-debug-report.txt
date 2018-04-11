@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ec71568fe5162a90cf3220bcdf2f67f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a1f8def065e0fded8288116318674e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.4.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/4203d55f0ca4ad8a89418bcf99f0f700/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e9d9de716a0501730808ddcc0a3515ba/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/3a38a4cc4f449d487ee16c4305d334eb/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-v4:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9bf2689bb12dff46ad98de769151b7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/73adc7c04e619495eab027e2c996b777/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/51d98984caf2880658e43964b3bd22a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/609eb7d9262e1ff515d5339334c6de42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f896f718cd8dee7e1e271502546649d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f639e3a22f1bd047ce3548470daac54b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/00db92e6d447d4aefae3316b070c14d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11c66623482fa13a9432e44c905c4fed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f39a080fcedd4752df27648784692388/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42cbb91dc399cf21d98d8a29414087fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/66723959cab5a35a5a6d1f2a7edb0cea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/010b0de798c1d6feaf09f6506d1be8de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9af6c8a29daf810acab2ed059ad63fa5/AndroidManifest.xml:17:1-22:12
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:11-47
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:8:5-34:19
+	android:supportsRtl
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.sadashiv.view.search.SearchActivity
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:label
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:16:13-45
+	android:launchMode
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:18:13-43
+	android:theme
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:15:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.sadashiv.view.article.ArticleActivity
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:parentActivityName
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:29:13-81
+	android:label
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:26:13-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:30:9-32:71
+	android:value
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:32:13-68
+	android:name
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml:31:13-59
+uses-sdk
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ec71568fe5162a90cf3220bcdf2f67f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ec71568fe5162a90cf3220bcdf2f67f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a1f8def065e0fded8288116318674e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a1f8def065e0fded8288116318674e3/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.4.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/4203d55f0ca4ad8a89418bcf99f0f700/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/butterknife-8.4.0.aar/4203d55f0ca4ad8a89418bcf99f0f700/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e9d9de716a0501730808ddcc0a3515ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e9d9de716a0501730808ddcc0a3515ba/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/3a38a4cc4f449d487ee16c4305d334eb/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/3a38a4cc4f449d487ee16c4305d334eb/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9bf2689bb12dff46ad98de769151b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9bf2689bb12dff46ad98de769151b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/73adc7c04e619495eab027e2c996b777/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/73adc7c04e619495eab027e2c996b777/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/51d98984caf2880658e43964b3bd22a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/51d98984caf2880658e43964b3bd22a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/609eb7d9262e1ff515d5339334c6de42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/609eb7d9262e1ff515d5339334c6de42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f896f718cd8dee7e1e271502546649d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f896f718cd8dee7e1e271502546649d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f639e3a22f1bd047ce3548470daac54b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f639e3a22f1bd047ce3548470daac54b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/00db92e6d447d4aefae3316b070c14d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/00db92e6d447d4aefae3316b070c14d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11c66623482fa13a9432e44c905c4fed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/11c66623482fa13a9432e44c905c4fed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f39a080fcedd4752df27648784692388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f39a080fcedd4752df27648784692388/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42cbb91dc399cf21d98d8a29414087fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42cbb91dc399cf21d98d8a29414087fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/66723959cab5a35a5a6d1f2a7edb0cea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/66723959cab5a35a5a6d1f2a7edb0cea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/010b0de798c1d6feaf09f6506d1be8de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/010b0de798c1d6feaf09f6506d1be8de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9af6c8a29daf810acab2ed059ad63fa5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /data/EMBITEL/emb-sadabir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9af6c8a29daf810acab2ed059ad63fa5/AndroidManifest.xml:20:5-44
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+		ADDED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml
+		INJECTED from /data1/olddata/AndroidStudioProjects/NyTimesApiExample/app/src/main/AndroidManifest.xml

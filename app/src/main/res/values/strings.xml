@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Article Search</string>
+    <string name="title_activity_search">Article Search</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter search keyword</string>
+    <string name="article_text">Latest News</string>
+    <string name="title_activity_article">Read More..</string>
+    <string name="share_text">Share</string>
+</resources>
